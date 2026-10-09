@@ -44,4 +44,4 @@ If this policy changes, the date above is updated.
 
 ## Contact
 
-Questions about privacy: [nadz.helpdes@gmail.com](mailto:nadz.helpdes@gmail.com)
+Questions about privacy: [nadz.helpdesk@gmail.com](mailto:nadz.helpdesk@gmail.com)

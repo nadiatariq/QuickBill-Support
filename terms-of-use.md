@@ -28,4 +28,4 @@ We may update these terms. The date above shows the latest version.
 
 ## Contact
 
-Questions: [nadz.helpdes@gmail.com](mailto:nadz.helpdes@gmail.com)
+Questions: [nadz.helpdesk@gmail.com](mailto:nadz.helpdesk@gmail.com)
