@@ -2,6 +2,9 @@
 
 QuickBill helps tradespeople make estimates and invoices quickly.
 
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Use](terms-of-use.md)
+
 ## Contact support
 
 Questions, bug reports, billing or account help:
