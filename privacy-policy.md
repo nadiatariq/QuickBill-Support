@@ -1,6 +1,6 @@
 # QuickBill Privacy Policy
 
-Last updated: 1 September 2026
+Last updated: 21 October 2026
 
 QuickBill helps tradespeople write estimates and invoices and track payments. This policy explains what the app stores and why.
 
@@ -8,13 +8,12 @@ QuickBill helps tradespeople write estimates and invoices and track payments. Th
 
 - **Account:** your sign-in through Apple (name and email, as shared by Apple) or an anonymous account if you skip sign-in.
 - **Your business data:** business name, phone, address, payment details you choose to add (for example bank details or a payment QR), clients, jobs, estimates, invoices and payments.
-- **Photos:** photos you take or pick and attach to a job.
 
 This data is stored so it can sync across your devices. It is kept with our service providers, Google Firebase (authentication and database) and Apple (sign-in and subscriptions).
 
 ## Camera and photos
 
-QuickBill uses the camera only when you take a job photo. For the photo library we access only the photos you pick, never your whole library. Photos stay on your phone until you attach them to a document you send.
+QuickBill uses the camera only when you take a job photo. For the photo library we access only the photos you pick, never your whole library. Photos stay on your phone. We don't upload them; they leave your phone only inside a PDF you choose to send.
 
 ## Subscriptions
 
